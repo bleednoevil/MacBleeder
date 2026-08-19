@@ -1,2 +1,2 @@
 # MacBleeder
-Zero-network exfiltration that weaponizes the macOS Bluetooth device name field using WiFi Pineapple Pager as a scanner/logger
+macOS database exfiltration that weaponizes the device name field using WiFi Pineapple Pager bluetooth connection as a display/logger
